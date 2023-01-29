@@ -1,0 +1,20 @@
+1	32	Female	White	Hispanic	Penobscot	Confirmed	January	Influenza	2022
+2	45	Female	White	Non hispanic	Oxford	Confirmed	January	Tuberculosis (TB)	2022
+3	23	Male	Black	African American	Oxford	Probable	January	Syphilis	2022
+4	56	Female	White	Hispanic	Cumberland	Confirmed	March	HIV/AIDS	2022
+5	37	Female	White	Hispanic	Penobscot	Confirmed	February	Measles	2022
+6	26	Female	Asian	Asian	York	Probable	March	Mumps	2021
+7	29	Male	Black	African American	Oxford	Confirmed	February	SARS-CoV-2	2021
+8	48	Female	White	Hispanic	Cumberland	Confirmed	March	Hepatitis A	2021
+9	33	Female	White	Hispanic	Penobscot	Probable	March	Syphilis	2021
+10	41	Female	Asian	Asian	York	Confirmed	March	SARS-CoV-2	2021
+11	21	Male	Black	African American	Oxford	Confirmed	March	SARS-CoV-2	2020
+12	52	Female	White	Hispanic	Cumberland	Probable	March	Salmonella	2020
+13	35	Male	White	Hispanic	Penobscot	Confirmed	April	Influenza	2020
+14	44	Female	Asian	Asian	York	Confirmed	April	Influenza	2020
+15	24	Male	Black	African American	Oxford	Confirmed	March	West Nile virus	2020
+16	57	Female	White	Hispanic	Cumberland	Confirmed	May	SARS-CoV-2	2020
+17	38	Male	White	Hispanic	Penobscot	Confirmed	May	Influenza	2020
+18	27	Female	Asian	Asian	York	Confirmed	May	SARS-CoV-2	2020
+19	30	Male	Black	African American	Oxford	Confirmed	March	SARS-CoV-2	2020
+20	49	Female	White	Hispanic	Cumberland	Confirmed	June	SARS-CoV-2	2020
